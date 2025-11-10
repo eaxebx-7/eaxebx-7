@@ -3,7 +3,7 @@
   <img src="Computer Backgrounds Gif.gif" width="100%" alt="Cat looking out the window banner"/>
 </p>
 
-<h1 align="center">👋 Hello there, I'm <PRIVATE_PERSON></h1>
+<h1 align="center">👋 Hello there, I'm EAX</h1>
 
 <p align="center">
   <b>🐍 Python | ⚙️ C | 💻 C++ | 🚀 Go | 🌐 JavaScript | 🐘 PHP Developer</b>
