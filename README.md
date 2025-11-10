@@ -44,11 +44,6 @@ Whether it’s backend logic, system-level programming, or web development — I
 
 ---
 
-### 📫 Connect with Me
-- 💼 [LinkedIn](#)
-- 🌐 [Portfolio](#)
-- 🐙 [GitHub Projects](#)
-
 ---
 
 <p align="center">
